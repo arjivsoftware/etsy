@@ -1,0 +1,21 @@
+[
+  {
+    "id": "cat_1786623963022",
+    "slug": "tshirt",
+    "name": "Tshirt",
+    "nameHi": "",
+    "nameGu": "",
+    "description": "test Desc",
+    "image": "public/uploads/categories/tshirt.webp",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "Tshirt",
+      "metaDescription": "Test Meta",
+      "keywords": []
+    },
+    "createdAt": "2026-08-13T12:26:28.294Z",
+    "updatedAt": "2026-08-13T12:26:28.294Z"
+  }
+]
