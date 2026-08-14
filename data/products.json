@@ -1,0 +1,44 @@
+[
+  {
+    "id": "prod_1786682648630",
+    "slug": "half-sleeve-tshirt",
+    "name": "Half sleeve Tshirt",
+    "shortDescription": "Half sleeve Tshirt description",
+    "description": "<ul><li><p>abric Polyester, 200 GSM T-Shirts</p></li><li><p>Polo Neck</p></li><li><p>Classic Fit</p></li><li><p>Guaranteed Colour Fastness</p></li><li><p>Sustainable and Organic</p></li><li><p>Designed with side slits for comfort</p></li></ul><p></p>",
+    "price": 999,
+    "mrp": 1099,
+    "currency": "INR",
+    "moq": 1,
+    "sku": "TSHIRT-001",
+    "images": [
+      {
+        "url": "public/uploads/products/prod_1786682648630/01.webp",
+        "alt": "Half Sleeve Tshirt",
+        "sortOrder": 0
+      }
+    ],
+    "thumbnail": "public/uploads/products/prod_1786682648630/01.webp",
+    "videoUrl": "",
+    "category": "tshirt",
+    "collectionIds": [],
+    "tags": [],
+    "attributes": [],
+    "variants": [],
+    "badge": "",
+    "inStock": true,
+    "featured": false,
+    "sortOrder": 0,
+    "redirect": {
+      "type": "whatsapp",
+      "customMessage": "",
+      "ctaLabel": ""
+    },
+    "seo": {
+      "metaTitle": "",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-14T04:50:16.216Z",
+    "updatedAt": "2026-08-14T04:50:16.216Z"
+  }
+]
