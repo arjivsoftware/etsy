@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ban_1786684891876",
+    "title": "Monsoon Sale",
+    "subtitle": "25% off",
+    "image": "public/uploads/banners/ban_1786684891876.webp",
+    "imageMobile": "",
+    "textPosition": "middle-center",
+    "textColor": "#FFFFFF",
+    "overlayOpacity": 0.3,
+    "showFrom": "",
+    "showUntil": "",
+    "redirect": {
+      "type": "whatsapp",
+      "customMessage": "",
+      "ctaLabel": ""
+    },
+    "active": true,
+    "sortOrder": 0,
+    "createdAt": "2026-08-14T05:21:54.638Z",
+    "updatedAt": "2026-08-14T05:21:54.638Z"
+  }
+]
