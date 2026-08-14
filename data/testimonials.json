@@ -1,0 +1,16 @@
+[
+  {
+    "id": "testi_1786684989820",
+    "name": "Kapil",
+    "location": "Surat",
+    "avatar": "public/uploads/testimonials/testi_1786684989820.webp",
+    "text": "Great Product",
+    "textHi": "",
+    "rating": 5,
+    "productId": "prod_1786682648630",
+    "verified": true,
+    "sortOrder": 0,
+    "createdAt": "2026-08-14T05:24:51.896Z",
+    "updatedAt": "2026-08-14T05:24:51.896Z"
+  }
+]

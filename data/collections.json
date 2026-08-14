@@ -1,0 +1,17 @@
+[
+  {
+    "id": "col_1786684940607",
+    "slug": "monsoon",
+    "name": "Monsoon",
+    "description": "Big Monsson sale is live",
+    "image": "public/uploads/collections/monsoon.webp",
+    "productIds": [
+      "prod_1786682648630"
+    ],
+    "displayStyle": "grid",
+    "featured": false,
+    "sortOrder": 0,
+    "createdAt": "2026-08-14T05:23:03.959Z",
+    "updatedAt": "2026-08-14T05:23:03.959Z"
+  }
+]

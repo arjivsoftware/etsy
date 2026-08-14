@@ -1,0 +1,17 @@
+[
+  {
+    "id": "page_1786685329128",
+    "slug": "about-us",
+    "title": "About Us",
+    "titleHi": "",
+    "content": "<p><strong>About US</strong></p><p>This is test page</p>",
+    "showInNav": true,
+    "showInFooter": true,
+    "seo": {
+      "metaTitle": "About Us",
+      "metaDescription": "About etsy shop"
+    },
+    "createdAt": "2026-08-14T05:30:32.227Z",
+    "updatedAt": "2026-08-14T05:30:32.227Z"
+  }
+]
