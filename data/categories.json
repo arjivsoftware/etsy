@@ -17,5 +17,21 @@
     },
     "createdAt": "2026-08-13T12:26:28.294Z",
     "updatedAt": "2026-08-13T12:26:28.294Z"
+  },
+  {
+    "id": "cat_1786970389610",
+    "slug": "monsoon",
+    "name": "Monsoon",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "Monsoon",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-17T12:39:57.152Z",
+    "updatedAt": "2026-08-17T12:39:57.152Z"
   }
 ]
