@@ -84,5 +84,21 @@
     },
     "createdAt": "2026-08-18T11:09:24.528Z",
     "updatedAt": "2026-08-18T11:09:24.528Z"
+  },
+  {
+    "id": "cat_1787051414364",
+    "slug": "top",
+    "name": "Top",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "T",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:10:19.120Z",
+    "updatedAt": "2026-08-18T11:10:19.120Z"
   }
 ]
