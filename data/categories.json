@@ -180,5 +180,21 @@
     },
     "createdAt": "2026-08-18T12:02:18.041Z",
     "updatedAt": "2026-08-18T12:02:18.041Z"
+  },
+  {
+    "id": "cat_1787056933741",
+    "slug": "back-7",
+    "name": "Back 7",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "B",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T12:42:18.574Z",
+    "updatedAt": "2026-08-18T12:42:18.574Z"
   }
 ]
