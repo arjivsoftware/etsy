@@ -100,5 +100,21 @@
     },
     "createdAt": "2026-08-18T11:36:03.513Z",
     "updatedAt": "2026-08-18T11:36:03.513Z"
+  },
+  {
+    "id": "cat_1787053100902",
+    "slug": "back-2",
+    "name": "Back 2",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "B",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:38:26.209Z",
+    "updatedAt": "2026-08-18T11:38:26.209Z"
   }
 ]
