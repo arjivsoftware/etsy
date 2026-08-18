@@ -102,9 +102,9 @@
     "updatedAt": "2026-08-18T11:10:19.120Z"
   },
   {
-    "id": "cat_1787051488037",
-    "slug": "long",
-    "name": "Long",
+    "id": "cat_1787051542108",
+    "slug": "testt",
+    "name": "testt",
     "description": "",
     "showInNav": true,
     "featured": false,
@@ -114,7 +114,7 @@
       "metaDescription": "",
       "keywords": []
     },
-    "createdAt": "2026-08-18T11:11:44.625Z",
-    "updatedAt": "2026-08-18T11:11:44.625Z"
+    "createdAt": "2026-08-18T11:12:24.896Z",
+    "updatedAt": "2026-08-18T11:12:24.896Z"
   }
 ]
