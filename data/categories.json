@@ -148,5 +148,21 @@
     },
     "createdAt": "2026-08-18T11:59:17.529Z",
     "updatedAt": "2026-08-18T11:59:17.529Z"
+  },
+  {
+    "id": "cat_1787054413887",
+    "slug": "back-5",
+    "name": "Back 5",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "B",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T12:00:18.488Z",
+    "updatedAt": "2026-08-18T12:00:18.488Z"
   }
 ]
