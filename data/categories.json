@@ -68,5 +68,21 @@
     },
     "createdAt": "2026-08-18T11:00:32.757Z",
     "updatedAt": "2026-08-18T11:00:32.757Z"
+  },
+  {
+    "id": "cat_1787051354779",
+    "slug": "jeans",
+    "name": "Jeans",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "Jeans",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:09:24.528Z",
+    "updatedAt": "2026-08-18T11:09:24.528Z"
   }
 ]
