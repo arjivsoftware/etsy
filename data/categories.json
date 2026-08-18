@@ -116,5 +116,21 @@
     },
     "createdAt": "2026-08-18T11:38:26.209Z",
     "updatedAt": "2026-08-18T11:38:26.209Z"
+  },
+  {
+    "id": "cat_1787054330205",
+    "slug": "back-3",
+    "name": "Back 3",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "B",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:58:56.192Z",
+    "updatedAt": "2026-08-18T11:58:56.192Z"
   }
 ]
