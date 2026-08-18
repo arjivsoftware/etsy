@@ -100,5 +100,21 @@
     },
     "createdAt": "2026-08-18T11:15:07.801Z",
     "updatedAt": "2026-08-18T11:15:07.801Z"
+  },
+  {
+    "id": "cat_1787051836367",
+    "slug": "top-2",
+    "name": "Top 2",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "T",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:17:21.122Z",
+    "updatedAt": "2026-08-18T11:17:21.122Z"
   }
 ]
