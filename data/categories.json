@@ -51,5 +51,22 @@
     },
     "createdAt": "2026-08-17T13:01:34.646Z",
     "updatedAt": "2026-08-17T13:01:34.646Z"
+  },
+  {
+    "id": "cat_1787050804991",
+    "slug": "half-sleeve-tshirt",
+    "name": "Half sleeve Tshirt",
+    "description": "",
+    "image": "public/uploads/categories/half-sleeve-tshirt.webp",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "Half sleeve Tshirt",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:00:32.757Z",
+    "updatedAt": "2026-08-18T11:00:32.757Z"
   }
 ]
