@@ -100,5 +100,21 @@
     },
     "createdAt": "2026-08-18T11:10:19.120Z",
     "updatedAt": "2026-08-18T11:10:19.120Z"
+  },
+  {
+    "id": "cat_1787051488037",
+    "slug": "long",
+    "name": "Long",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "t",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:11:44.625Z",
+    "updatedAt": "2026-08-18T11:11:44.625Z"
   }
 ]
