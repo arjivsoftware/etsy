@@ -116,5 +116,21 @@
     },
     "createdAt": "2026-08-18T11:17:21.122Z",
     "updatedAt": "2026-08-18T11:17:21.122Z"
+  },
+  {
+    "id": "cat_1787052541899",
+    "slug": "top-4",
+    "name": "Top 4",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "T",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:29:08.974Z",
+    "updatedAt": "2026-08-18T11:29:08.974Z"
   }
 ]
