@@ -132,5 +132,21 @@
     },
     "createdAt": "2026-08-18T11:58:56.192Z",
     "updatedAt": "2026-08-18T11:58:56.192Z"
+  },
+  {
+    "id": "cat_1787054351231",
+    "slug": "back-4",
+    "name": "Back 4",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "B",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:59:17.529Z",
+    "updatedAt": "2026-08-18T11:59:17.529Z"
   }
 ]
