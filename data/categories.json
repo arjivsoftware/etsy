@@ -116,21 +116,5 @@
     },
     "createdAt": "2026-08-18T11:17:21.122Z",
     "updatedAt": "2026-08-18T11:17:21.122Z"
-  },
-  {
-    "id": "cat_1787052412091",
-    "slug": "top-3",
-    "name": "Top 3",
-    "description": "",
-    "showInNav": true,
-    "featured": false,
-    "sortOrder": 0,
-    "seo": {
-      "metaTitle": "T",
-      "metaDescription": "",
-      "keywords": []
-    },
-    "createdAt": "2026-08-18T11:26:56.118Z",
-    "updatedAt": "2026-08-18T11:26:56.118Z"
   }
 ]
