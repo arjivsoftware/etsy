@@ -86,9 +86,9 @@
     "updatedAt": "2026-08-18T11:09:24.528Z"
   },
   {
-    "id": "cat_1787051414364",
-    "slug": "top",
-    "name": "Top",
+    "id": "cat_1787051701166",
+    "slug": "top-1",
+    "name": "Top 1",
     "description": "",
     "showInNav": true,
     "featured": false,
@@ -98,23 +98,7 @@
       "metaDescription": "",
       "keywords": []
     },
-    "createdAt": "2026-08-18T11:10:19.120Z",
-    "updatedAt": "2026-08-18T11:10:19.120Z"
-  },
-  {
-    "id": "cat_1787051542108",
-    "slug": "testt",
-    "name": "testt",
-    "description": "",
-    "showInNav": true,
-    "featured": false,
-    "sortOrder": 0,
-    "seo": {
-      "metaTitle": "t",
-      "metaDescription": "",
-      "keywords": []
-    },
-    "createdAt": "2026-08-18T11:12:24.896Z",
-    "updatedAt": "2026-08-18T11:12:24.896Z"
+    "createdAt": "2026-08-18T11:15:07.801Z",
+    "updatedAt": "2026-08-18T11:15:07.801Z"
   }
 ]
