@@ -84,5 +84,21 @@
     },
     "createdAt": "2026-08-18T11:09:24.528Z",
     "updatedAt": "2026-08-18T11:09:24.528Z"
+  },
+  {
+    "id": "cat_1787052953157",
+    "slug": "back-1",
+    "name": "Back 1",
+    "description": "",
+    "showInNav": true,
+    "featured": false,
+    "sortOrder": 0,
+    "seo": {
+      "metaTitle": "T",
+      "metaDescription": "",
+      "keywords": []
+    },
+    "createdAt": "2026-08-18T11:36:03.513Z",
+    "updatedAt": "2026-08-18T11:36:03.513Z"
   }
 ]
